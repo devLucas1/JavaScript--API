@@ -1,1 +1,1 @@
-# JavaScript--API
+# JavaScript API
